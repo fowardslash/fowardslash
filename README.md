@@ -5,8 +5,8 @@
 ### 🏁 Goal: Become a professional Full-stack developer (can't wait to see it fade away)
 ### 🌍 I have a website: [Go check it out](https://fowardslash.github.io)
 
-### Interests: Front-end development (Web, Android)
-### OpenSuse enjoyer
+### Interests: Front-end development (Web, Android) and User Interface Design
+### OpenSuse enjoyer (you should try it out)
 
 ### Can make relatively nice User Interface.
 ### Languages: Java, C#, Javascript, CSS, HTML, SQL (i also know a little bit of Vue.js and Firebase)
