@@ -11,7 +11,7 @@
 ## Skills
 ### 😐 Can make relatively nice User Interfaces.
 ### 🙂 Good command of English (especially in Reading and Listening)
-### 🤔 Problem solving????
+### 🤔 Pretty Okay problem solving skills
 
 ### Thì xài git cx được 7 tháng :)).
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
