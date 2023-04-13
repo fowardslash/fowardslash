@@ -4,12 +4,14 @@
 ### 💻 Sophomore IT Undergraduate (Becoming Junior soon).
 ### 🏁 Goal: Become a professional Front-end developer (can't wait to see it fade away).
 ### 🌍 I have a website: [Go check it out](https://fowardslash.github.io).
-
+### ⌨️ Languages: Java, C#, Javascript, CSS, HTML, SQL (i also know a little bit of Vue.js and Firebase).
+## Other information
 ### Interests: Front-end development (Web, Android) and User Interface Design.
 ### OpenSuse enjoyer (you should try it out).
-
-### Can make relatively nice User Interfaces.
-### Languages: Java, C#, Javascript, CSS, HTML, SQL (i also know a little bit of Vue.js and Firebase).
+## Skills
+### 😐 Can make relatively nice User Interfaces.
+### 🙂 Good command of English (especially in Reading and Listening)
+### 🤔 Problem solving????
 
 ### Thì xài git cx được 7 tháng :)).
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
