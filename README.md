@@ -14,8 +14,8 @@
 ### Thì xài git cx được 7 tháng :)).
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
 t rất ghét MVC.\
-Còn mình theo IT vì
-
+## So why do I major IT?
+Because:
 ### Có thể nói IT là vua của các nghề
 Ngành IT Việt Nam hiện nay ở đầu của sự phát triển. Có thể nói IT là vua của các nghề. Vừa có tiền, có quyền. Vừa kiếm được nhiều $ lại được xã hội trọng vọng.
 Thằng em mình học bách khoa cơ khí, bỏ ngang sang IT, sinh năm 96. Tự mày mò học code rồi đi làm remote cho công ty Mỹ 2 năm nay. Mỗi tối online 3-4 giờ là xong việc. Lương tháng 3k6. Nhưng thu nhập chính vẫn là từ nhận các project bên ngoài làm thêm. Tuần làm 2,3 cái nhẹ nhàng 9,10k tiền tươi thóc thật không phải đóng thuế. Làm gần được 3 năm mà nhà xe nó đã mua đủ cả. Nghĩ mà thèm.\
