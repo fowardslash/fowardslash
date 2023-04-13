@@ -14,7 +14,7 @@
 ### Thì xài git cx được 7 tháng :)).
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
 t rất ghét MVC.\
-Còn mình theo IT vì\
+Còn mình theo IT vì
 
 ### Có thể nói IT là vua của các nghề
 Ngành IT Việt Nam hiện nay ở đầu của sự phát triển. Có thể nói IT là vua của các nghề. Vừa có tiền, có quyền. Vừa kiếm được nhiều $ lại được xã hội trọng vọng.
