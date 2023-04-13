@@ -2,7 +2,7 @@
 ### 🎓 Currently studying at HUFLIT.
 ### 🇬🇧 English level: IELTS band 6.5 (Expired but who cares. I'm gonna renew it this year).
 ### 💻 Sophomore IT Undergraduate (Becoming Junior soon).
-### 🏁 Goal: Become a professional Full-stack developer (can't wait to see it fade away).
+### 🏁 Goal: Become a professional Front-end developer (can't wait to see it fade away).
 ### 🌍 I have a website: [Go check it out](https://fowardslash.github.io).
 
 ### Interests: Front-end development (Web, Android) and User Interface Design.
