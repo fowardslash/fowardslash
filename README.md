@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fowardslash&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fowardslash&theme=github)
 # 👋 Welcome to my Profile, My name is Quang
 ### 🎓 Currently studying at HUFLIT.
 ### 🇬🇧 English level: IELTS band 6.5 (Expired but who cares. I'm gonna renew it this year).
