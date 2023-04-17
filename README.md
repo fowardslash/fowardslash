@@ -9,8 +9,7 @@
 ### Interests: Front-end development (Web, Android) and User Interface Design.
 ### OpenSuse enjoyer (you should try it out).
 ## Languages
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fowardslash&theme=github)
-+ Java
+You tell me
 ### Thì xài git cx được 7 tháng :)).
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
 t rất ghét MVC.\
