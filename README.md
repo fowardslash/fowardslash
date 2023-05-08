@@ -14,3 +14,5 @@
 ### Thì xài git cx được 7 tháng :)).
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
 t rất ghét MVC.\
+## Repos
+https://github-readme-stats.vercel.app/api/pin/?username=fowardslash&repo=fowardslash.github.io&cache_seconds=86400&theme=default_repocard
