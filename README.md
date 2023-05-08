@@ -15,4 +15,4 @@
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
 t rất ghét MVC.\
 ## Repos
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fowardslash&theme=dark&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fowardslash&repo=fowardslash.github.io)](https://github.com/anuraghazra/github-readme-stats)
