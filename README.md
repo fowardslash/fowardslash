@@ -16,3 +16,4 @@
 t rất ghét MVC.\
 ## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fowardslash&repo=fowardslash.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trduyth4nh&repo=socialife)](https://github.com/anuraghazra/github-readme-stats)
