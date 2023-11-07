@@ -2,7 +2,7 @@
 # 👋 Welcome to my Profile, My name is Quang
 ### 🎓 Currently studying at HUFLIT.
 ### 🇬🇧 English level: IELTS band 6.5 (Expired but who cares. I'm gonna renew it this year).
-### 💻 Sophomore IT Undergraduate (Becoming Junior soon).
+### 💻 Junior IT Undergraduate.
 ### 🏁 Goal: Become a professional Front-end developer (can't wait to see it fade away).
 ### 🌍 I have a website: [Go check it out](https://fowardslash.vercel.app).
 ## Other information
