@@ -16,5 +16,5 @@
 ### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
 t rất ghét MVC.\
 ## My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fowardslash&repo=fowardslashVue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fowardslash&repo=fowardslashvue)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trduyth4nh&repo=socialife)](https://github.com/anuraghazra/github-readme-stats)
