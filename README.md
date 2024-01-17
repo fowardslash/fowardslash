@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fowardslash&theme=github)
-# 👋 Welcome to my Profile, My name is Quang
+<img src="https://github-readme-stats.vercel.app/api?username=fowardslash&show_icons=true&count_private=true">
 ### 🎓 Currently studying at HUFLIT.
 ### 🇬🇧 English level: IELTS band 6.5 (Expired but who cares. I'm gonna renew it this year).
 ### 💻 Junior IT Undergraduate.
@@ -10,6 +10,6 @@
 ### OpenSuse / KDE enjoyer (you should try it out).
 ### macOS enjoyer (yes).
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash&layout=compact&langs_count=6">
 ## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trduyth4nh&repo=socialife)](https://github.com/anuraghazra/github-readme-stats)
