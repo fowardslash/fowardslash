@@ -10,6 +10,5 @@
 ### OpenSuse / KDE enjoyer (you should try it out).
 ### macOS enjoyer (yes).
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash&layout=compact&langs_count=6">
-## My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trduyth4nh&repo=socialife)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash&layout=compact&langs_count=6">\
+![https://github-profile-trophy.vercel.app/?username=fowardslash&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=fowardslash)
