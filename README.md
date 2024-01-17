@@ -11,9 +11,5 @@
 ### macOS enjoyer (yes).
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash)](https://github.com/anuraghazra/github-readme-stats)
-
-### Thì xài git cx được 7 tháng :)).
-### Vẫn còn nonn xanh lắm xin mấy anh pro chỉ giáo.
-t rất ghét MVC.\
 ## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trduyth4nh&repo=socialife)](https://github.com/anuraghazra/github-readme-stats)
