@@ -9,4 +9,4 @@
 ### OpenSuse / KDE enjoyer (you should try it out).
 ### macOS enjoyer (yes).
 ## Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash&layout=compact&langs_count=6">\
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash&layout=compact&langs_count=6">
