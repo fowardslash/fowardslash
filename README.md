@@ -1,5 +1,18 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fowardslash&theme=github)
 ### Yet another loser
+
+ <div>
+   <div>
+      🎓 Education: Junior undergraduate @ HUFLIT. <sup>3.52 GPA btw.</sup><br>
+     🌐 Foreign Language: IELTS 6.5. <br>
+     🧑‍💻 What am I doing: Learning everything about Front-end & (a bit of Back-end) development. <br>
+     🎯 Goal: Master React.JS and Kotlin for Android development.<br>
+     🌏 Visit my web profile here: <a href='https://fowardslash.vercel.app'>here</a>.
+     <hr>
+   </div>
+ </div>
+
+ ### Technologies that I have used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
