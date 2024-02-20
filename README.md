@@ -7,7 +7,7 @@
      🌐 Foreign Language: IELTS 6.5. <br>
      🧑‍💻 What am I doing: Learning everything about Front-end & (a bit of Back-end) development. <br>
      🎯 Goal: Master React.JS and Kotlin for Android development.<br>
-     🌏 Visit my web profile here: <a href='https://fowardslash.vercel.app'>here</a>.
+     🌏 Visit my web profile: <a href='https://fowardslash.vercel.app'>here</a>.
      <hr>
    </div>
  </div>
