@@ -3,7 +3,7 @@
 
 <div>
   <div>
-     🎓 Education: Studying @ HUFLIT <br>
+     🎓 Education: Junior undergraduate @ HUFLIT <br>
     🌐 Foreign Language: IELTS 6.5 <br>
     🧑‍💻 What am I doing: Learning everything about Front-end & (a bit of Back-end) development. <br>
     🎯 Goal: Master React.JS and Kotlin for Android development.
