@@ -13,6 +13,7 @@
  </div>
 
  ### Technologies that I have used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fowardslash)](https://github.com/anuraghazra/github-readme-stats)\
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -26,4 +27,4 @@
 
 Avid OpenSUSE enjoyer (I used to use Arch btw).
 
-
+Also check out [this wonderful person's profile](https://github.com/trduyTh4nh) (he's very cool)
