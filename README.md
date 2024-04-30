@@ -4,11 +4,11 @@
  <div>
    <div>
      pretty much a perfectionist<br>
-      🎓 Education: Junior undergraduate @ HUFLIT. <sup>3.52 GPA btw.</sup><br>
-     🌐 Foreign Language: IELTS 6.5. <br>
-     🧑‍💻 What am I doing: Learning everything about Front-end & (a bit of Back-end) development and improving my English (still not good enough according to my overthinking-induced brain 😅) <br>
-     🎯 Goal: Get IELTS 7.0+, get a stable job, master React.JS and Kotlin for Android development.<br>
-     🌏 Visit my web profile: <a href='https://fowardslash.vercel.app'>here</a>.
+     <b>🎓 Education:</b> Junior undergraduate @ HUFLIT. <sup>3.52 GPA btw.</sup><br>
+     <b>🌐 Foreign Language:</b> IELTS 6.5. <br>
+     <b>🧑‍💻 What am I doing:</b> Learning everything about Front-end & (a bit of Back-end) development and improving my English (still not good enough according to my overthinking-induced brain 😅) <br>
+     <b>🎯 Goal:</b> Get IELTS 7.0+, get a stable job, master React.JS and Kotlin for Android development.<br>
+     <b>🌏 Visit my web profile:</b> <a href='https://fowardslash.vercel.app'>here</a>.
      <hr>
    </div>
  </div>
@@ -28,4 +28,6 @@
 
 Avid OpenSUSE enjoyer (I used to use Arch btw).
 
-Also check out [this wonderful person's profile](https://github.com/trduyTh4nh) (he's very cool)
+Also check out [this wonderful person's profile](https://github.com/trduyTh4nh) (he's very cool).
+
+I also need to see a therapist (my overthinking is getting worse).
