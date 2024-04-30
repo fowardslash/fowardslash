@@ -3,9 +3,10 @@
 
  <div>
    <div>
+     pretty much a perfectionist<br>
       🎓 Education: Junior undergraduate @ HUFLIT. <sup>3.52 GPA btw.</sup><br>
      🌐 Foreign Language: IELTS 6.5. <br>
-     🧑‍💻 What am I doing: Learning everything about Front-end & (a bit of Back-end) development and improving my English (still not good enough according to my overthinking-induced brain 😅 <br>
+     🧑‍💻 What am I doing: Learning everything about Front-end & (a bit of Back-end) development and improving my English (still not good enough according to my overthinking-induced brain 😅) <br>
      🎯 Goal: Get IELTS 7.0+, get a stable job, master React.JS and Kotlin for Android development.<br>
      🌏 Visit my web profile: <a href='https://fowardslash.vercel.app'>here</a>.
      <hr>
