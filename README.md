@@ -4,7 +4,7 @@
  <div>
    <div>
      pretty much a perfectionist<br>
-     <b>🎓 Education:</b> Junior undergraduate @ HUFLIT. <sup>3.52 GPA btw.</sup><br>
+     <b>🎓 Education:</b> Junior undergraduate @ HUFLIT. <sup>3.55 GPA btw.</sup><br>
      <b>🌐 Foreign Language:</b> IELTS 6.5. <br>
      <b>🧑‍💻 What am I doing:</b> Learning everything about Front-end & (a bit of Back-end) development and improving my English (still not good enough according to my overthinking-induced brain 😅) <br>
      <b>🎯 Goal:</b> Get IELTS 7.0+, get a stable job, master React.JS and Kotlin for Android development.<br>
