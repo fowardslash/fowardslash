@@ -31,5 +31,3 @@
 Avid OpenSUSE enjoyer (I used to use Arch btw).
 
 Also check out [this wonderful person's profile](https://github.com/trduyTh4nh) (he's very cool).
-
-I also need to see a therapist (my overthinking is getting worse).
