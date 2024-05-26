@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fowardslash&theme=github)
-### Fat ass loser
+### Welcome
 
  <div>
    <div>
@@ -25,7 +25,6 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)\
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)
 <hr>
 
 Avid OpenSUSE enjoyer (I used to use Arch btw).
